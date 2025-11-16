@@ -36,5 +36,6 @@ A comprehensive stock market prediction system that combines technical analysis,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Adithyab3103/Project_Fall_2025.git](https://github.com/Adithyab3103/Project_Fall_2025.git)
-   cd Project_Fall_2025
+   git clone https://github.com/n3vinmanoj/stock-market-pred.git
+   cd stock-market-pred
+
